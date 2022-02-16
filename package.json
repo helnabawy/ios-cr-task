@@ -1,0 +1,25 @@
+{
+  "name": "ios_code_review",
+  "version": "1.0.0",
+  "description": "Netguru iOS Code Review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helnabawy/ios-cr-task.git"
+  },
+  "keywords": [
+    "ios",
+    "cr",
+    "task",
+    "netguru"
+  ],
+  "author": "Hosam Elnabawy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helnabawy/ios-cr-task/issues"
+  },
+  "homepage": "https://github.com/helnabawy/ios-cr-task#readme"
+}
